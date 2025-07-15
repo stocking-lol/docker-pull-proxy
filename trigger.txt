@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-gp34dbbor81zq1rr.cn-guangzhou.personal.cr.aliyuncs.com/stocking_dify/squid:latest
+nginx:latest crpi-gp34dbbor81zq1rr.cn-guangzhou.personal.cr.aliyuncs.com/stocking_dify/nginx:latest
